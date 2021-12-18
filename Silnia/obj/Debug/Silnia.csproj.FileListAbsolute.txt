@@ -1,7 +1,0 @@
-C:\Users\Admin\source\repos\Silnia\Silnia\bin\Debug\Silnia.exe.config
-C:\Users\Admin\source\repos\Silnia\Silnia\bin\Debug\Silnia.exe
-C:\Users\Admin\source\repos\Silnia\Silnia\bin\Debug\Silnia.pdb
-C:\Users\Admin\source\repos\Silnia\Silnia\obj\Debug\Silnia.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\Silnia\Silnia\obj\Debug\Silnia.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\Silnia\Silnia\obj\Debug\Silnia.exe
-C:\Users\Admin\source\repos\Silnia\Silnia\obj\Debug\Silnia.pdb
