@@ -1,3 +1,3 @@
 # Silnia
 Program liczący silnie metodą iteracyjną.
-Musiałem grać progream od nowa gdyż się nie właczał.
+Musiałem wgrać program od nowa gdyż się nie właczał.
